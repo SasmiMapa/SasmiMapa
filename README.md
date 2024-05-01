@@ -30,6 +30,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasmi2004/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasmimapa@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/black.ice2004/)
 <div>
 <hr> 
 
@@ -39,7 +40,7 @@
     </a>
     <br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,bash,debian,linux,git,cs,js,html,css" />
+        <img src="https://skillicons.dev/icons?i=py,bash,linux,js,html,css" />
         <br>
         <img src="https://skillicons.dev/icons?i=vscode,pycharm,ps" />
     </a>
