@@ -5,7 +5,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1000&pause=9000&color=ABD200&center=true&vCenter=true&multiline=true&random=false&width=800&lines='A+Ship+is+always+safe+at+the+shore,+but+that+is+not+what+it's+built+for'" alt="Typing SVG" /></a>
 </h2> -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ABD200,100:9fef00&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=38&fontSize=50)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ABD200,100:9fef00&text=Hi!%20%20I'm%20%20Aimy&textBg=false&section=header&fontColor=0D1117&fontAlignY=38&fontSize=50) -->
 
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -16,8 +16,8 @@
 
 <div align="left">
 
-- 🎓 A second-year undergraduate specializing in Cyber Security at 🇬🇧 Staffordshire University<br>
-- 💻 Currently developing a Python and Bash based Network and Web Pentesting automation tool<br>
+- 🎓 A second-year Cyber Security undergraduate at 🇬🇧 Staffordshire University<br>
+- ✍🏽 Passionate Writer<br>
 - 📚 Currently studying Machine Learning<br>
 - 🎨 2d digital artist <br>
 - 🎮 PC gamer <br>
