@@ -18,12 +18,7 @@
 
 - 🎓 A second-year Cyber Security undergraduate at 🇬🇧 Staffordshire University<br>
 - ✍🏽 Passionate Writer<br>
-- 📚 Currently studying Machine Learning<br>
-- 🎨 2d digital artist <br>
-- 🎮 PC gamer <br>
-- 🎸 Hobbyist Guitar player<br>
-- 🌌 Aesthetics lover<br>
-- 🎯 Driven by a strong sense of self discipline to learn and discover new things each day
+- 📌 Driven by curiosity to explore and learn new things
 <div>
 <hr> 
 
