@@ -28,12 +28,8 @@
     </a>
     <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aimy/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erandasblackburn@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itzluminara)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fitzluminara)](https://twitter.com/itzluminara)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eternal.burn/)
-<!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/N4PP33R) -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasmi2004/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sasmimapa@gmail.com)
 <div>
 <hr> 
 
@@ -89,6 +85,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&redirect=true)
 </div> -->
 
-[![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph)
+[![Sasmi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=65&color=0:9fef00,100:ABD200&section=footer&reversal=false)
