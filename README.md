@@ -66,16 +66,16 @@
     rank_icon=github
     rank_icon=percentile
  -->
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=default&hide_border=true&locale=en" alt="readme-stats" /></p> |
+<!-- | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=d3ttl4ff&theme=merko&hide_border=true)](https://git.io/streak-stats) | <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d3ttl4ff&show_icons=true&theme=merko&rank_icon=default&hide_border=true&locale=en" alt="readme-stats" /></p> |
 | ------------- | ------------- |
 
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3ttl4ff\&layout=compact\&size_weight=1&count_weight=1\&theme=merko\&hide_border=true) |
-| -------------------------- |
+| -------------------------- | -->
 
-<div align="center">
+<!-- <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/d3ttl4ff/d3ttl4ff/output/github-contribution-grid-snake-b153.svg" />
 </div>
-<br>
+<br> -->
 
 <!-- <hr>
 <div align="center">
@@ -86,6 +86,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=folgrj6q5x0og3tss4vpvj8nf&redirect=true)
 </div> -->
 
-[![Sasmi's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph)
+[![Aimy's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=d3ttl4ff&theme=merko&area=true&hide_border=true)](https://github.com/d3ttl4ff/github-readme-activity-graph)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=65&color=0:9fef00,100:ABD200&section=footer&reversal=false)
